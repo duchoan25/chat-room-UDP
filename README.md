@@ -84,7 +84,7 @@ Cho phép gửi 1 gói tin đến nhiều client cùng tham gia group.
   <img src="picture/Screenshot 2025-09-16 140708.png" alt="" width="800"/>
 </p>
 <p align="center">
-  <em> Hình 5: Lịch sử chat của server hoặc client - </em>
+  <em> Hình 5: Lịch sử chat  - </em>
 </p>
 
 ## 📝 4. Các bước cài đặt
